@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 56}
   m_MaxSize: {x: 32384, y: 8096}
   vertical: 0
-  controlID: 123
+  controlID: 100
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -138,9 +138,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 907
+    x: 753
     y: 0
-    width: 311
+    width: 465
     height: 941
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -218,7 +218,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 907
+    width: 753
     height: 941
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
@@ -516,9 +516,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 907
+    x: 753
     y: 79
-    width: 309
+    width: 463
     height: 915
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -536,15 +536,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: -9750
       m_LastClickedID:
-        m_Data: 0
+        m_Data: -9750
       m_ExpandedIDs:
+      - m_Data: -9750
+      - m_Data: -9704
+      - m_Data: -9470
+      - m_Data: -7726
+      - m_Data: -7722
       - m_Data: -1278
+      - m_Data: 23038
+      - m_Data: 24272
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Short-Lazer-Ship
+        m_OriginalName: Short-Lazer-Ship
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -552,10 +560,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 0
+          m_Data: -9750
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 6}
@@ -678,7 +686,7 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: F:\Space Shooter FREE
+  m_LastProjectPath: C:\Users\Shivery\Documents\GitHub\IHATEGAMEDEV
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
@@ -690,18 +698,18 @@ MonoBehaviour:
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 23070
+    - m_Data: 23114
+    - m_Data: 23116
+    - m_Data: 23118
+    - m_Data: 23120
+    - m_Data: 23122
+    - m_Data: 23124
+    - m_Data: 23126
+    - m_Data: 23128
     - m_Data: 23130
     - m_Data: 23132
     - m_Data: 23134
     - m_Data: 23136
-    - m_Data: 23138
-    - m_Data: 23140
-    - m_Data: 23142
-    - m_Data: 23144
-    - m_Data: 23146
-    - m_Data: 23148
-    - m_Data: 23150
-    - m_Data: 23152
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -728,29 +736,32 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 251}
-    m_SelectedIDs: []
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs:
+    - m_Data: -9750
     m_LastClickedID:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 23070
+    - m_Data: 23114
+    - m_Data: 23116
+    - m_Data: 23118
+    - m_Data: 23120
+    - m_Data: 23124
+    - m_Data: 23126
+    - m_Data: 23128
     - m_Data: 23130
     - m_Data: 23132
-    - m_Data: 23134
     - m_Data: 23136
-    - m_Data: 23138
-    - m_Data: 23140
-    - m_Data: 23142
-    - m_Data: 23144
-    - m_Data: 23146
-    - m_Data: 23148
-    - m_Data: 23150
-    - m_Data: 23152
+    - m_Data: 23218
+    - m_Data: 23220
+    - m_Data: 23252
+    - m_Data: 23256
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Battle
+      m_OriginalName: Battle
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -758,10 +769,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 0
+        m_Data: 24262
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 7}
@@ -773,8 +784,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: -9750
+    m_LastClickedInstanceID: -9750
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -830,7 +842,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 79
-    width: 906
+    width: 752
     height: 915
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1402,9 +1414,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.80571336, y: -0.82433814, z: 0.031648908}
+    m_Target: {x: -1.0908909, y: -1.9102699, z: -0.03185716}
     speed: 2
-    m_Value: {x: 0.80571336, y: -0.82433814, z: 0.031648908}
+    m_Value: {x: -1.0908909, y: -1.9102699, z: -0.03185716}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1454,9 +1466,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.835101
+    m_Target: 3.6468358
     speed: 2
-    m_Value: 6.835101
+    m_Value: 3.6468358
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1514,7 +1526,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 79
-    width: 906
+    width: 752
     height: 915
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1573,23 +1585,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 906
+      width: 752
       height: 894
     m_Scale: {x: 0.465625, y: 0.465625}
-    m_Translation: {x: 453, y: 447}
+    m_Translation: {x: 376, y: 447}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -972.8859
+      x: -807.5168
       y: -960
-      width: 1945.7719
+      width: 1615.0336
       height: 1920
     m_MinimalGUI: 1
   m_defaultScale: 0.465625
-  m_LastWindowPixelSize: {x: 906, y: 915}
+  m_LastWindowPixelSize: {x: 752, y: 915}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000001000000000000

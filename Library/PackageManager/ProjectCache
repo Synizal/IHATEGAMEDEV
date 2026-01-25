@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: F:/Space Shooter FREE/Packages/manifest.json
+    m_FilePath: C:/Users/Shivery/Documents/GitHub/IHATEGAMEDEV/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 639045178021476690
     m_Hash: 1763786918
   m_LockFileStatus:
-    m_FilePath: F:/Space Shooter FREE/Packages/packages-lock.json
+    m_FilePath: C:/Users/Shivery/Documents/GitHub/IHATEGAMEDEV/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: F:/Space Shooter FREE/Packages
+m_ProjectPath: C:/Users/Shivery/Documents/GitHub/IHATEGAMEDEV/Packages
 m_EditorVersion: 6000.3.2f1 (a9779f353c9b)
 m_ResolvedPackages:
 - packageId: com.unity.inputsystem@1.17.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.17.0
   source: 1
-  resolvedPath: F:\Space Shooter FREE\Library\PackageCache\com.unity.inputsystem@02433b2481ab
+  resolvedPath: C:\Users\Shivery\Documents\GitHub\IHATEGAMEDEV\Library\PackageCache\com.unity.inputsystem@02433b2481ab
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -199,7 +199,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: F:\Space Shooter FREE\Library\PackageCache\com.unity.multiplayer.center@f01f4ba8d00a
+  resolvedPath: C:\Users\Shivery\Documents\GitHub\IHATEGAMEDEV\Library\PackageCache\com.unity.multiplayer.center@f01f4ba8d00a
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -295,7 +295,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: F:\Space Shooter FREE\Library\PackageCache\com.unity.ugui@52e65280e89e
+  resolvedPath: C:\Users\Shivery\Documents\GitHub\IHATEGAMEDEV\Library\PackageCache\com.unity.ugui@52e65280e89e
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI

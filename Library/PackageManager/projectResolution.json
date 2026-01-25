@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "F:/Space Shooter FREE/Packages",
+    "projectPath": "C:/Users/Shivery/Documents/GitHub/IHATEGAMEDEV/Packages",
     "unityVersion": "6000.3.2f1"
   },
   "inputs": [
-    "F:\\Space Shooter FREE\\Packages\\manifest.json",
-    "F:\\Space Shooter FREE\\Packages\\packages-lock.json",
+    "C:\\Users\\Shivery\\Documents\\GitHub\\IHATEGAMEDEV\\Packages\\manifest.json",
+    "C:\\Users\\Shivery\\Documents\\GitHub\\IHATEGAMEDEV\\Packages\\packages-lock.json",
     "F:\\Unity\\Unity Hub\\6000.3.2f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.inputsystem@1.17.0": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "F:\\Space Shooter FREE\\Library\\PackageCache\\com.unity.inputsystem@02433b2481ab",
+      "resolvedPath": "C:\\Users\\Shivery\\Documents\\GitHub\\IHATEGAMEDEV\\Library\\PackageCache\\com.unity.inputsystem@02433b2481ab",
       "fingerprint": "02433b2481abc5c0063956fdc211f3d8c777447f",
       "editorCompatibility": "2022.3.0a1",
       "version": "1.17.0",
@@ -22,7 +22,7 @@
     "com.unity.multiplayer.center@1.0.1": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "F:\\Space Shooter FREE\\Library\\PackageCache\\com.unity.multiplayer.center@f01f4ba8d00a",
+      "resolvedPath": "C:\\Users\\Shivery\\Documents\\GitHub\\IHATEGAMEDEV\\Library\\PackageCache\\com.unity.multiplayer.center@f01f4ba8d00a",
       "fingerprint": "f01f4ba8d00afa4e957bddf0fcd1612a564401ff",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.1",
@@ -32,7 +32,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "F:\\Space Shooter FREE\\Library\\PackageCache\\com.unity.ugui@52e65280e89e",
+      "resolvedPath": "C:\\Users\\Shivery\\Documents\\GitHub\\IHATEGAMEDEV\\Library\\PackageCache\\com.unity.ugui@52e65280e89e",
       "fingerprint": "52e65280e89ee09a5b287dc793f9464bcd213b41",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
