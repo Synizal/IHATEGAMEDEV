@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43
+    y: 0
     width: 1920
     height: 36
   m_SerializedDataModeController:
@@ -516,8 +516,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 753
-    y: 79
+    x: 754
+    y: 24
     width: 463
     height: 915
   m_SerializedDataModeController:
@@ -536,10 +536,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: -9750
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: -9750
+        m_Data: 0
       m_ExpandedIDs:
       - m_Data: -9750
       - m_Data: -9704
@@ -551,8 +550,8 @@ MonoBehaviour:
       - m_Data: 24272
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Short-Lazer-Ship
-        m_OriginalName: Short-Lazer-Ship
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -560,10 +559,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: -9750
+          m_Data: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 6}
@@ -596,8 +595,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1492
-    y: 79
+    x: 1493
+    y: 24
     width: 427
     height: 915
   m_SerializedDataModeController:
@@ -648,8 +647,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1218
-    y: 79
+    x: 1219
+    y: 24
     width: 272
     height: 915
   m_SerializedDataModeController:
@@ -697,19 +696,21 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 23070
-    - m_Data: 23114
-    - m_Data: 23116
-    - m_Data: 23118
-    - m_Data: 23120
-    - m_Data: 23122
-    - m_Data: 23124
-    - m_Data: 23126
+    - m_Data: 23084
+    - m_Data: 23086
     - m_Data: 23128
     - m_Data: 23130
     - m_Data: 23132
     - m_Data: 23134
     - m_Data: 23136
+    - m_Data: 23138
+    - m_Data: 23140
+    - m_Data: 23142
+    - m_Data: 23144
+    - m_Data: 23146
+    - m_Data: 23148
+    - m_Data: 23150
+    - m_Data: 23152
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -743,25 +744,25 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 23070
-    - m_Data: 23114
-    - m_Data: 23116
-    - m_Data: 23118
-    - m_Data: 23120
-    - m_Data: 23124
-    - m_Data: 23126
+    - m_Data: 23084
+    - m_Data: 23086
     - m_Data: 23128
     - m_Data: 23130
     - m_Data: 23132
+    - m_Data: 23134
     - m_Data: 23136
-    - m_Data: 23218
-    - m_Data: 23220
-    - m_Data: 23252
-    - m_Data: 23256
+    - m_Data: 23138
+    - m_Data: 23140
+    - m_Data: 23142
+    - m_Data: 23144
+    - m_Data: 23146
+    - m_Data: 23148
+    - m_Data: 23150
+    - m_Data: 23152
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Battle
-      m_OriginalName: Battle
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -769,10 +770,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 24262
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 7}
@@ -841,7 +842,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 752
     height: 915
   m_SerializedDataModeController:
