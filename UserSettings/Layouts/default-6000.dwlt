@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
+    x: -90
+    y: 68
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 56}
   m_MaxSize: {x: 32384, y: 8096}
   vertical: 0
-  controlID: 87
+  controlID: 15
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -249,8 +249,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "UnityEditor.MainToolbarWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: -90
+    y: 68
     width: 1920
     height: 36
   m_SerializedDataModeController:
@@ -516,8 +516,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 754
-    y: 24
+    x: 663
+    y: 104
     width: 463
     height: 915
   m_SerializedDataModeController:
@@ -536,15 +536,13 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 23308
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -22528
-      - m_Data: -21978
       - m_Data: -1278
-      - m_Data: 23050
-      - m_Data: 23060
+      - m_Data: 23294
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -592,8 +590,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1551
-    y: 24
+    x: 1460
+    y: 104
     width: 369
     height: 915
   m_SerializedDataModeController:
@@ -644,8 +642,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1219
-    y: 24
+    x: 1128
+    y: 104
     width: 330
     height: 915
   m_SerializedDataModeController:
@@ -672,7 +670,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Space Shooter Template FREE/Prefabs/VFX
+    - Assets/Space Shooter Template FREE/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -738,23 +736,21 @@ MonoBehaviour:
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: -12066
+    - m_Data: 23308
     m_LastClickedID:
-      m_Data: 0
+      m_Data: 23308
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 23406
     - m_Data: 23408
     - m_Data: 23448
     - m_Data: 23450
-    - m_Data: 23452
     - m_Data: 23454
     - m_Data: 23456
     - m_Data: 23458
     - m_Data: 23460
     - m_Data: 23462
     - m_Data: 23464
-    - m_Data: 23466
     - m_Data: 23468
     - m_Data: 23470
     - m_Data: 23472
@@ -786,8 +782,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -12066
-    m_LastClickedInstanceID: -12066
+    - m_Data: 23308
+    m_LastClickedInstanceID: 23308
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -841,8 +837,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 24
+    x: -90
+    y: 104
     width: 752
     height: 915
   m_SerializedDataModeController:
