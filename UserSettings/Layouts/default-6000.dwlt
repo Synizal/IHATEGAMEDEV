@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 56}
   m_MaxSize: {x: 32384, y: 8096}
   vertical: 0
-  controlID: 100
+  controlID: 87
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -166,7 +166,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1218
     y: 0
-    width: 274
+    width: 332
     height: 941
   m_MinSize: {x: 232, y: 276}
   m_MaxSize: {x: 10002, y: 10026}
@@ -190,9 +190,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1492
+    x: 1550
     y: 0
-    width: 428
+    width: 370
     height: 941
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -540,14 +540,11 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -9750
-      - m_Data: -9704
-      - m_Data: -9470
-      - m_Data: -7726
-      - m_Data: -7722
+      - m_Data: -22528
+      - m_Data: -21978
       - m_Data: -1278
-      - m_Data: 23038
-      - m_Data: 24272
+      - m_Data: 23050
+      - m_Data: 23060
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -595,9 +592,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1493
+    x: 1551
     y: 24
-    width: 427
+    width: 369
     height: 915
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -649,7 +646,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1219
     y: 24
-    width: 272
+    width: 330
     height: 915
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -674,7 +671,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Space Shooter Template FREE/Prefabs/VFX
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -696,21 +694,22 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 23084
-    - m_Data: 23086
-    - m_Data: 23128
-    - m_Data: 23130
-    - m_Data: 23132
-    - m_Data: 23134
-    - m_Data: 23136
-    - m_Data: 23138
-    - m_Data: 23140
-    - m_Data: 23142
-    - m_Data: 23144
-    - m_Data: 23146
-    - m_Data: 23148
-    - m_Data: 23150
-    - m_Data: 23152
+    - m_Data: 23406
+    - m_Data: 23408
+    - m_Data: 23448
+    - m_Data: 23450
+    - m_Data: 23452
+    - m_Data: 23454
+    - m_Data: 23456
+    - m_Data: 23458
+    - m_Data: 23460
+    - m_Data: 23462
+    - m_Data: 23464
+    - m_Data: 23466
+    - m_Data: 23468
+    - m_Data: 23470
+    - m_Data: 23472
+    - m_Data: 23474
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,26 +738,27 @@ MonoBehaviour:
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: -9750
+    - m_Data: -12066
     m_LastClickedID:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 23084
-    - m_Data: 23086
-    - m_Data: 23128
-    - m_Data: 23130
-    - m_Data: 23132
-    - m_Data: 23134
-    - m_Data: 23136
-    - m_Data: 23138
-    - m_Data: 23140
-    - m_Data: 23142
-    - m_Data: 23144
-    - m_Data: 23146
-    - m_Data: 23148
-    - m_Data: 23150
-    - m_Data: 23152
+    - m_Data: 23406
+    - m_Data: 23408
+    - m_Data: 23448
+    - m_Data: 23450
+    - m_Data: 23452
+    - m_Data: 23454
+    - m_Data: 23456
+    - m_Data: 23458
+    - m_Data: 23460
+    - m_Data: 23462
+    - m_Data: 23464
+    - m_Data: 23466
+    - m_Data: 23468
+    - m_Data: 23470
+    - m_Data: 23472
+    - m_Data: 23474
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,8 +786,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: -9750
-    m_LastClickedInstanceID: -9750
+    - m_Data: -12066
+    m_LastClickedInstanceID: -12066
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -1415,9 +1415,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -1.0908909, y: -1.9102699, z: -0.03185716}
+    m_Target: {x: -0.19529095, y: -0.9973282, z: -0.050630223}
     speed: 2
-    m_Value: {x: -1.0908909, y: -1.9102699, z: -0.03185716}
+    m_Value: {x: -0.19529095, y: -0.9973282, z: -0.050630223}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1467,9 +1467,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.6468358
+    m_Target: 5.5241303
     speed: 2
-    m_Value: 3.6468358
+    m_Value: 5.5241303
   m_Ortho:
     m_Target: 1
     speed: 2
