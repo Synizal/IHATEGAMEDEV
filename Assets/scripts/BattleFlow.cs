@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -8,59 +10,32 @@ public class BattleFlow : MonoBehaviour
     public PlayerHealth playerHealth;
     public GameObject bgMusic;
 
-    public int enemyToWin = 10;   // ⭐ cần giết 10 con
-
-    bool isGameEnded = false;
-
-    void Start()
+    private void Start()
     {
         gameOverUI.SetActive(false);
         gameWinUI.SetActive(false);
-
-        EnemyHealth.TotalEnemyKilled = 0;   // reset kill count
         playerHealth.onDead += OnGameOver;
     }
 
-    void Update()
+    private void Update()
     {
-        if (isGameEnded) return;
-
-        if (EnemyHealth.TotalEnemyKilled >= enemyToWin)
+        if (EnemyHealth.LivingEnemyCount <= 0)
         {
             OnGameWin();
         }
     }
 
-    void OnGameOver()
+    private void OnGameWin()
     {
-        if (isGameEnded) return;
-        isGameEnded = true;
-
-        gameOverUI.SetActive(true);
-        if (bgMusic) bgMusic.SetActive(false);
-        Time.timeScale = 0f;
-    }
-
-    void OnGameWin()
-    {
-        if (isGameEnded) return;
-        isGameEnded = true;
-
         gameWinUI.SetActive(true);
-        if (bgMusic) bgMusic.SetActive(false);
+        bgMusic.SetActive(false);
         playerHealth.gameObject.SetActive(false);
-        Time.timeScale = 0f;
     }
 
-    public void ReturnToMainMenu()
+    private void OnGameOver()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu");
+        gameOverUI.SetActive(true);
+        bgMusic.SetActive(false);
     }
-
-    public void RestartLevel()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
+    public void ReturnToMainMenu() => SceneManager.LoadScene("SampleScene");
 }
